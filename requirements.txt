@@ -1,0 +1,9 @@
+streamlit>=1.35
+streamlit-folium>=0.20
+folium>=0.16
+pandas>=2.0
+requests>=2.31
+# só para a fonte CDS:
+cdsapi>=0.7.4
+xarray>=2024.1
+netCDF4>=1.6
